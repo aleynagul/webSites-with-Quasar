@@ -1,0 +1,55 @@
+[
+  {
+    "urun": 1,
+    "urunIsim": "ARTENGO-Tenis Çorabı ",
+    "normalFiyat": "70,00",
+    "indirimliFiyat": "55,00",
+    "indirimMiktari": "%21",
+    "urunResim": "icons/coroplar.jpeg"
+  },
+
+  {
+    "urun": 2,
+    "urunIsim": "KIPSTA-Futbol Topu",
+    "normalFiyat": "320,00",
+    "indirimliFiyat": "290,00",
+    "indirimMiktari": "%9",
+    "urunResim": "icons/top.jpeg"
+  },
+
+  {
+    "urun": 3,
+    "urunIsim": "CORENGTH-Direnç Bantı",
+    "normalFiyat": "200,00",
+    "indirimliFiyat": "150,00",
+    "indirimMiktari": "%25",
+    "urunResim": "icons/direncbanti.jpeg"
+  },
+
+  {
+    "urun": 4,
+    "urunIsim": "NEWFEEL-Kadin Yürüyüş Ayakkabısı",
+    "normalFiyat": "420,00",
+    "indirimliFiyat": "300,00",
+    "indirimMiktari": "%28",
+    "urunResim": "icons/ayakkabi.jpeg"
+  },
+
+  {
+    "urun": 5,
+    "urunIsim": "DOMYOS-Tote Siyah Spor Çantası",
+    "normalFiyat": "435,00",
+    "indirimliFiyat": "350,00",
+    "indirimMiktari": "%19",
+    "urunResim": "icons/siyahcanta.jpeg"
+  },
+
+  {
+    "urun": 6,
+    "urunIsim": "PERFLY-Badminton Raket Seti",
+    "normalFiyat": "390,00",
+    "indirimliFiyat": "340,00",
+    "indirimMiktari": "12",
+    "urunResim": "icons/badminton.jpeg"
+  }
+]
